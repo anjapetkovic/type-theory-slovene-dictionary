@@ -1,3 +1,4 @@
+* abstract = izvleček
 * abstraction (to algebraic expression ) = abstrakcija algebrajskemu izrazu
 * admissible = dopusten
 * algebraic effect operation = operacija algebrajskega učinka
@@ -41,7 +42,8 @@
 * satisfaction relation = zadostitvena relacija
 * scott-open modality = Scottovo odprta modalnost
 * scott-openness = Scottova odprtost
-* scott tree-continuity = drevesna Scottova zveznost* abstract * soundness  = skladnost (logical equivalence it is sound with respect to contextual equivalence)
+* scott tree-continuity = drevesna Scottova zveznost
+* soundness  = skladnost (logical equivalence it is sound with respect to contextual equivalence)
 * subcomputation  = podizračun
 * summary = povzetek
 * terminal term = končni izraz
