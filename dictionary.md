@@ -108,3 +108,28 @@
 * well-formed expression = dobro oblikovan izraz
 * well-typed relation = dobro tipizirana relacija
 * ω-complete order = ω-polna urejenost
+
+<!-- Nove besede -->
+
+* Turing machine = Turingov stroj  
+* bit = bit  
+* string = niz  
+* infinite binary sequence = neskončno binarno zaporedje  
+* prefix = predpona  
+* decide = odločiti  
+* semidecide = semi-odločiti  
+* decidable = odločljiv  
+* computable = izračunljiv  
+* computably enumerable = izračunljivo prešteven  
+* Turing reducibility = Turingova reduktibilnost  
+* oracle = orakelj  
+* prefix-free = brez predpon  
+* Cantor space = Cantorjev prostor  
+* computably open set = izračunljivo odprta množica  
+* computably closed set = izračunljivo zaprta množica  
+* measure = mera  
+* atom of a measure = atom mere  
+* atomless measure = brezatomična mera  
+* Martin-Löf random sequence = Martin-Löf naključno zaporedje  
+* proper sequence = pravilno zaporedje (prevedel direktno iz ruščine правильная последовательность)
+* pushforward measure = potisnjena mera  
